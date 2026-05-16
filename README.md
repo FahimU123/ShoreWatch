@@ -1,6 +1,6 @@
 # ShoreWatch
 
-**Real-time maritime safety for the Great Lakes — powered by IBM watsonx AI**
+**Real-time maritime safety for the Great Lakes, powered by IBM watsonx AI**
 
 > Built at Hack Michigan 2026 · May 15–17, Detroit
 
@@ -8,7 +8,7 @@
 
 ## The Problem
 
-The Great Lakes are the largest freshwater system on Earth, spanning 94,000 square miles across Michigan and four neighboring states. Every year, dozens of people die on these waters — not from recklessness, but from ignorance. Conditions that look calm at the dock can be deadly a mile offshore.
+The Great Lakes are the largest freshwater system on Earth, spanning 94,000 square miles across Michigan and four neighboring states. Every year, dozens of people die on these waters. Not from recklessness, but from ignorance. Conditions that look calm at the dock can be deadly a mile offshore.
 
 NOAA maintains a network of offshore buoy stations that measure real-time wave heights, wind speeds, water temperatures, and swell periods. This data is accurate, live, and free. It is also buried in dense government text tables that no recreational boater, kayaker, or swimmer reads before going out.
 
@@ -18,7 +18,7 @@ NOAA maintains a network of offshore buoy stations that measure real-time wave h
 
 ## The Solution
 
-ShoreWatch is a native iOS app that pulls live NOAA buoy telemetry, runs it through IBM watsonx AI, and delivers a plain-English safety verdict in seconds — before you ever leave the dock.
+ShoreWatch is a native iOS app that pulls live NOAA buoy telemetry, runs it through IBM watsonx AI, and delivers a plain-English safety verdict in seconds. Before you ever leave the dock.
 
 Open the app. It finds your location, identifies the nearest buoy station, fetches live conditions, and tells you: **Get out now. Monitor closely. All clear.**
 
@@ -54,10 +54,10 @@ Alert level + actionable guidance delivered in plain English
 ## Features
 
 ### Live Buoy Map
-Interactive MapKit map showing every NOAA buoy station across the Great Lakes — color-coded by alert level. Tap any buoy to see its full conditions report. Also shows real AIS maritime vessel traffic so you know what's sharing the water with you.
+Interactive MapKit map showing every NOAA buoy station across the Great Lakes, color-coded by alert level. Tap any buoy to see its full conditions report. Also shows real AIS maritime vessel traffic so you know what's sharing the water with you.
 
 ### AI Safety Assessment
-IBM watsonx analyzes raw buoy telemetry and generates a human-readable narrative explaining current conditions, what they mean for safety, and what action to take. The assessment reads aloud via on-device speech synthesis — useful when your hands are on the wheel.
+IBM watsonx analyzes raw buoy telemetry and generates a human-readable narrative explaining current conditions, what they mean for safety, and what action to take. The assessment reads aloud via on-device speech synthesis, useful when your hands are on the wheel.
 
 ### Survival Time Calculator
 Based on live water temperature and USCG cold-water immersion survival tables, ShoreWatch estimates how long a person can survive in the water at current conditions. This number updates in real time as temperatures change. It's the number that matters most in a rescue situation.
@@ -70,13 +70,13 @@ Switch to augmented reality view and the camera becomes a heads-up display. A co
 
 ### Safety Dashboard
 A full pre-departure safety hub:
-- **Emergency location share** — one tap generates a message with your GPS coordinates and the Coast Guard number, ready to send to family or rescue services
-- **Pre-departure checklist** — life jackets, VHF radio, fuel, weather, float plan
-- **VHF radio channel reference** — CH 16, 09, 22A, 13
-- **Emergency contacts** — Coast Guard (1-800-424-8802) and BoatUS Towing (1-800-391-4869), tap to call
+- **Emergency location share:** one tap generates a message with your GPS coordinates and the Coast Guard number, ready to send to family or rescue services
+- **Pre-departure checklist:** life jackets, VHF radio, fuel, weather, float plan
+- **VHF radio channel reference:** CH 16, 09, 22A, 13
+- **Emergency contacts:** Coast Guard (1-800-424-8802) and BoatUS Towing (1-800-391-4869), tap to call
 
 ### Forecast Trend
-Each buoy shows whether conditions are improving, steady, or worsening — and a safe window label when conditions are expected to ease (e.g. *"May ease after 20:00 local"*).
+Each buoy shows whether conditions are improving, steady, or worsening, plus a safe window label when conditions are expected to ease (e.g. *"May ease after 20:00 local"*).
 
 ---
 
@@ -94,7 +94,7 @@ Each buoy shows whether conditions are improving, steady, or worsening — and a
 
 ### IBM watsonx Integration
 
-IBM watsonx.ai is the core AI engine behind ShoreWatch's safety assessments. Raw NOAA telemetry — wave height, wind speed, dominant wave period, water temperature, barometric pressure — is sent to watsonx, which:
+IBM watsonx.ai is the core AI engine behind ShoreWatch's safety assessments. Raw NOAA telemetry (wave height, wind speed, dominant wave period, water temperature, barometric pressure) is sent to watsonx, which:
 
 1. Interprets the combined data in context (individual readings can be misleading; watsonx evaluates them together)
 2. Applies maritime safety reasoning to determine risk level
@@ -110,13 +110,13 @@ This is not a rule-based threshold system. watsonx understands that 2-meter wave
 The Great Lakes are Michigan's defining geographic feature and one of its greatest economic assets:
 
 - **$7 billion+** in annual recreational boating activity in Michigan alone
-- **\~1 million** registered watercraft in Michigan — third highest in the US
+- **~1 million** registered watercraft in Michigan, third highest in the US
 - **Over 3,000 miles** of Great Lakes shoreline within Michigan
 - Fishing, tourism, shipping, and recreation industries all depend on safe water access
 
-ShoreWatch is built specifically for the Great Lakes. The buoy network, the harbor database, the vessel traffic — all of it is calibrated to Michigan waters. This is not a generic maritime app ported to the Midwest. It is a Michigan solution to a Michigan problem.
+ShoreWatch is built specifically for the Great Lakes. The buoy network, the harbor database, the vessel traffic, all of it is calibrated to Michigan waters. This is not a generic maritime app ported to the Midwest. It is a Michigan solution to a Michigan problem.
 
-**Jobs and economic opportunity:** ShoreWatch creates a foundation for Michigan-based development of maritime safety technology. The AI assessment pipeline, the real-time data infrastructure, and the mobile platform are all extensible to commercial shipping, search and rescue coordination, and insurance risk assessment — industries with significant Michigan presence.
+**Jobs and economic opportunity:** ShoreWatch creates a foundation for Michigan-based development of maritime safety technology. The AI assessment pipeline, the real-time data infrastructure, and the mobile platform are all extensible to commercial shipping, search and rescue coordination, and insurance risk assessment. These are industries with significant Michigan presence.
 
 **Open data, open source:** Built on NOAA's public buoy API, ShoreWatch demonstrates how Michigan technologists can build high-value products on top of existing public infrastructure without waiting for government to build the user-facing layer.
 
@@ -134,16 +134,16 @@ ShoreWatch is built specifically for the Great Lakes. The buoy network, the harb
 
 ---
 
-## Judging Criteria — Our Case
+## Judging Criteria
 
 **Completeness and Feasibility (5/5)**
 ShoreWatch is a working iOS application with a functioning AI assessment pipeline, live map, AR compass mode, and safety dashboard. Every feature shown in the video is real and running on device. The NOAA API integration is production-grade. IBM watsonx powers the core AI layer. This is not a prototype or mockup.
 
 **Effectiveness and Efficiency (5/5)**
-The app solves the problem in under 10 seconds from launch: location → buoy → assessment → verdict. The AI narrative replaces hours of manual interpretation of NOAA data tables. The survival time calculator and harbor navigation features provide the two most critical pieces of information in an emergency — *how long do I have* and *where do I go*.
+The app solves the problem in under 10 seconds from launch: location, buoy, assessment, verdict. The AI narrative replaces hours of manual interpretation of NOAA data tables. The survival time calculator and harbor navigation features provide the two most critical pieces of information in an emergency: how long do I have, and where do I go.
 
 **Design and Usability (5/5)**
-ShoreWatch follows Apple Human Interface Guidelines throughout. No gray toolbars, no cluttered screens, no jargon. Alert levels are communicated with color, icon, and plain-English text simultaneously — accessible to users with color vision deficiency. The AI assessment reads aloud for hands-free use on the water. Emergency actions (call Coast Guard, share location, navigate to harbor) are one tap from the main screen.
+ShoreWatch follows Apple Human Interface Guidelines throughout. No cluttered screens, no jargon. Alert levels are communicated with color, icon, and plain-English text simultaneously, making it accessible to users with color vision deficiency. The AI assessment reads aloud for hands-free use on the water. Emergency actions (call Coast Guard, share location, navigate to harbor) are one tap from the main screen.
 
 **Creativity and Innovation (5/5)**
 No existing public app combines live NOAA buoy telemetry, AI-generated safety assessments, cold-water survival time calculation, AR bearing compass, and one-tap harbor navigation in a single mobile experience. The IBM watsonx integration for maritime safety assessment is a novel application of large language model reasoning to structured environmental sensor data.
