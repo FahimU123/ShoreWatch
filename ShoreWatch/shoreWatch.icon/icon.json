@@ -43,26 +43,23 @@
     {
       "layers" : [
         {
-          "fill" : {
-            "solid" : "display-p3:0.40332,0.62842,0.86768,1.00000"
-          },
-          "image-name" : "map 2.svg",
-          "name" : "map 2",
-          "opacity" : 0.7,
+          "image-name" : "mapi.png",
+          "name" : "mapi",
           "position" : {
             "scale" : 1,
             "translation-in-points" : [
-              86.33087256938688,
-              -164.1409452338048
+              75.96270030240566,
+              -120.5585089948936
             ]
           }
         }
       ],
+      "opacity" : 1,
       "shadow" : {
-        "kind" : "layer-color",
+        "kind" : "neutral",
         "opacity" : 1
       },
-      "specular" : false,
+      "specular" : true,
       "translucency" : {
         "enabled" : false,
         "value" : 0.5
