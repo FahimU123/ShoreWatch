@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(writing-for-interfaces)",
+      "Skill(swiftui-pro)",
+      "Bash(xcodebuild -scheme ShoreWatch -destination 'platform=iOS Simulator,name=iPhone 17 Pro' -quiet build)",
+      "Bash(xcodebuild -list)",
+      "Bash(xcodebuild -target ShoreWatch -sdk iphonesimulator -configuration Debug -quiet)",
+      "Bash(xcodebuild -target ShoreWatch -sdk iphonesimulator -configuration Debug)",
+      "Skill(swiftui-design-principles)",
+      "Bash(sed -i '' 's/in: \\\\.rect\\(corners: \\\\.concentric, isUniform: true\\)/in: RoundedRectangle\\(cornerRadius: DS.Radius.card, style: .continuous\\)/g' ARInfoBar.swift BuoyDetailSheet.swift SafetyDashboardView.swift OverlayContentView.swift)",
+      "Bash(sed -i '' 's/\\\\.overlay\\(\\\\.rect\\(corners: \\\\.concentric, isUniform: true\\)\\\\.stroke\\(/.overlay\\(RoundedRectangle\\(cornerRadius: DS.Radius.card, style: .continuous\\).stroke\\(/g' ARInfoBar.swift)",
+      "Bash(sed -i '' 's/systemImage: \"anchor\"/systemImage: \"ferry\"/' OverlayContentView.swift)"
+    ]
+  }
+}

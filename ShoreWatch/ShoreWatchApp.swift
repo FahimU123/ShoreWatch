@@ -1,9 +1,5 @@
-//
-//  ShoreWatchApp.swift
-//  ShoreWatch
-//
-//  Created by Fahim Uddin on 5/15/26.
-//
+// ShoreWatchApp.swift
+// ShoreWatch
 
 import SwiftUI
 

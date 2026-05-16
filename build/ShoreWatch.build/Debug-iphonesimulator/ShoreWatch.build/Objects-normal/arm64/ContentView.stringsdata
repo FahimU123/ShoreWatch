@@ -1,0 +1,24 @@
+{
+  "source": "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "ShoreWatch",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Refresh",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 65
+        }
+      }
+    ]
+  },
+  "version": 1
+}

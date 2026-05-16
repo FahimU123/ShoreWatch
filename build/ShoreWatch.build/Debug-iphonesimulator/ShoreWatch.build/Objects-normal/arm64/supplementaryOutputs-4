@@ -1,0 +1,23 @@
+{
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/AlertBadgeView.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/arm64/AlertBadgeView.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/arm64/AlertBadgeView.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/arm64/AlertBadgeView.dia",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/arm64/AlertBadgeView.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/arm64/AlertBadgeView.swiftdeps"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/AssessmentViewModel.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/arm64/AssessmentViewModel.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/arm64/AssessmentViewModel.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/arm64/AssessmentViewModel.dia",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/arm64/AssessmentViewModel.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/arm64/AssessmentViewModel.swiftdeps"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/BuoyAnnotationView.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/arm64/BuoyAnnotationView.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/arm64/BuoyAnnotationView.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/arm64/BuoyAnnotationView.dia",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/arm64/BuoyAnnotationView.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/arm64/BuoyAnnotationView.swiftdeps"
+  }
+}

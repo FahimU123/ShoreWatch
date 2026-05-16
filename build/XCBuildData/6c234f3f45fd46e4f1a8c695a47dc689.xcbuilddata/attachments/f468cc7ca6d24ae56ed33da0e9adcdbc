@@ -1,0 +1,199 @@
+{
+  "" : {
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ShoreWatch-primary.dia",
+    "emit-module-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ShoreWatch-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ShoreWatch-primary-emit-module.dia",
+    "pch" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ShoreWatch-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ShoreWatch-primary.swiftdeps"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/AlertBadgeView.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/AlertBadgeView.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/AlertBadgeView.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/AlertBadgeView.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/AlertBadgeView.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/AlertBadgeView.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/AlertBadgeView.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/AlertBadgeView.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/AlertBadgeView~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/AssessmentViewModel.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/AssessmentViewModel.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/AssessmentViewModel.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/AssessmentViewModel.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/AssessmentViewModel.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/AssessmentViewModel.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/AssessmentViewModel.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/AssessmentViewModel.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/AssessmentViewModel~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/BuoyAnnotationView.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyAnnotationView.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyAnnotationView.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyAnnotationView.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyAnnotationView.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyAnnotationView.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyAnnotationView.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyAnnotationView.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyAnnotationView~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/BuoyDetailSheet.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyDetailSheet.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyDetailSheet.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyDetailSheet.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyDetailSheet.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyDetailSheet.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyDetailSheet.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyDetailSheet.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyDetailSheet~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/BuoyMapView.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyMapView.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyMapView.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyMapView.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyMapView.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyMapView.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyMapView.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyMapView.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/BuoyMapView~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/CameraManager.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/CameraManager.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/CameraManager.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/CameraManager.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/CameraManager.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/CameraManager.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/CameraManager.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/CameraManager.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/CameraManager~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/CameraPreviewView.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/CameraPreviewView.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/CameraPreviewView.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/CameraPreviewView.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/CameraPreviewView.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/CameraPreviewView.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/CameraPreviewView.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/CameraPreviewView.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/CameraPreviewView~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/Config.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/Config.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/Config.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/Config.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/Config.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/Config.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/Config.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/Config.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/Config~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/ContentView.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/GeminiService.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/GeminiService.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/GeminiService.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/GeminiService.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/GeminiService.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/GeminiService.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/GeminiService.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/GeminiService.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/GeminiService~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/LoadingOverlayView.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/LoadingOverlayView.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/LoadingOverlayView.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/LoadingOverlayView.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/LoadingOverlayView.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/LoadingOverlayView.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/LoadingOverlayView.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/LoadingOverlayView.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/LoadingOverlayView~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/LocationManager.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/LocationManager.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/LocationManager.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/LocationManager.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/LocationManager.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/LocationManager.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/LocationManager.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/LocationManager.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/LocationManager~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/Models.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/Models.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/Models.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/Models.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/Models.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/Models.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/Models.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/Models.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/Models~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/NOAAService.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/NOAAService.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/NOAAService.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/NOAAService.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/NOAAService.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/NOAAService.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/NOAAService.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/NOAAService.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/NOAAService~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/NotificationManager.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/NotificationManager.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/NotificationManager.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/NotificationManager.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/NotificationManager.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/NotificationManager.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/NotificationManager.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/NotificationManager.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/NotificationManager~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/OverlayContentView.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/OverlayContentView.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/OverlayContentView.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/OverlayContentView.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/OverlayContentView.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/OverlayContentView.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/OverlayContentView.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/OverlayContentView.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/OverlayContentView~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/ShoreWatchApp.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ShoreWatchApp.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ShoreWatchApp.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ShoreWatchApp.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ShoreWatchApp.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ShoreWatchApp.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ShoreWatchApp.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ShoreWatchApp.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/ShoreWatchApp~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/ShoreWatch/WatsonxService.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/WatsonxService.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/WatsonxService.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/WatsonxService.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/WatsonxService.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/WatsonxService.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/WatsonxService.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/WatsonxService.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/WatsonxService~partial.swiftmodule"
+  },
+  "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/fahim/Desktop/Personal Projects/ShoreWatch/build/ShoreWatch.build/Debug-iphonesimulator/ShoreWatch.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
