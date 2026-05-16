@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'ShoreWatch' in project 'ShoreWatch' (no dependencies)
