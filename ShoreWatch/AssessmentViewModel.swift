@@ -21,7 +21,6 @@ final class AssessmentViewModel: ObservableObject {
 
     let locationManager = LocationManager()
     private let noaaService = NOAAService()
-    private let watsonxService = WatsonxService()
     private let geminiService = GeminiService()
 
     private var locationCancellable: AnyCancellable?
@@ -73,9 +72,9 @@ final class AssessmentViewModel: ObservableObject {
             print("✅ [NOAA] Got buoy \(buoy.stationID) — \(buoy.summary)")
 
             loadingState = .assessing
-            print("🤖 [watsonx] Sending to IBM Granite (useMockAssessment=\(Config.useMockAssessment))")
-            let (level, narrative) = try await watsonxService.assess(buoy: buoy)
-            print("✅ [watsonx] Level=\(level.rawValue) narrative=\(narrative.prefix(80))")
+            print("🤖 [Gemini] Sending to AI (useMockAssessment=\(Config.useMockAssessment))")
+            let (level, narrative) = try await geminiService.assess(buoy: buoy)
+            print("✅ [Gemini] Level=\(level.rawValue) narrative=\(narrative.prefix(80))")
 
             let result = ThreatAssessment(
                 alertLevel: level,

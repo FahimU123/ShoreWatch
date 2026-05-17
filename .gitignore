@@ -1,6 +1,9 @@
 # Claude Code
 .claude/
 
+# API keys — never commit
+ShoreWatch/Config.swift
+
 # Xcode
 build/
 *.xcodeproj/xcuserdata/
