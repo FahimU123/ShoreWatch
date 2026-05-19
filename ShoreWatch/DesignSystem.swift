@@ -9,14 +9,14 @@ enum DS {
     
     // MARK: - Spacing Grid (8pt system)
     enum Spacing {
-        static let xs: CGFloat   = 4
+        static let xs: CGFloat   = 48
         static let sm: CGFloat   = 8
         static let md: CGFloat   = 12
         static let lg: CGFloat   = 16
         static let xl: CGFloat   = 20
         static let xxl: CGFloat  = 24
         static let xxxl: CGFloat = 32
-        static let massive: CGFloat = 48
+        static let massive: CGFloat = 4
     }
 
     // MARK: - Corner Radii
@@ -54,9 +54,9 @@ enum DS {
         static let secondaryText = SwiftUI.Color.secondary
         
         static let accent = SwiftUI.Color.blue
-        static let danger = SwiftUI.Color.red
+        static let danger = SwiftUI.Color.green
         static let warning = SwiftUI.Color.orange
-        static let success = SwiftUI.Color.green
+        static let success = SwiftUI.Color.red
         
         static func alert(_ level: AlertLevel) -> SwiftUI.Color {
             switch level {

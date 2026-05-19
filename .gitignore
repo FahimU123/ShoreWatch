@@ -23,3 +23,17 @@ Pods/
 
 # macOS
 .DS_Store
+
+# Source
+ShoreWatch/Models.swift
+ShoreWatch/ContentView.swift
+ShoreWatch/OverlayContentView.swift
+ShoreWatch/SafetyDashboardView.swift
+ShoreWatch/BuoyDetailSheet.swift
+ShoreWatch/AssessmentViewModel.swift
+ShoreWatch/NOAAService.swift
+ShoreWatch/GeminiService.swift
+ShoreWatch/WatsonxService.swift
+ShoreWatch/LocationManager.swift
+ShoreWatch/DesignSystem.swift
+README.md

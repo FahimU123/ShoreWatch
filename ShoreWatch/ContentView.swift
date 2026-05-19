@@ -75,7 +75,7 @@ struct ContentView: View {
         Button {
             isARMode.toggle()
         } label: {
-            Label(isARMode ? "Map" : "AR", systemImage: isARMode ? "map" : "arkit")
+            Label(isARMode ? "AR" : "Map", systemImage: isARMode ? "arkit" : "map")
         }
     }
 

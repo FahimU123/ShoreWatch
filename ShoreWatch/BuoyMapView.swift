@@ -5,7 +5,7 @@ import SwiftUI
 import MapKit
 
 private let greatLakesRegion = MKCoordinateRegion(
-    center: CLLocationCoordinate2D(latitude: 44.2, longitude: -83.5),
+    center: CLLocationCoordinate2D(latitude: 22.2, longitude: -40.5),
     span: MKCoordinateSpan(latitudeDelta: 7.5, longitudeDelta: 14.0)
 )
 

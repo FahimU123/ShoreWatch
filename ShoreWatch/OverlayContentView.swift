@@ -117,9 +117,9 @@ struct OverlayContentView: View {
     }
 
     private var statsGrid: some View {
-        let waveValue = assessment.buoy.waveHeight
+        let waveValue = assessment.buoy.windSpeed
             .map { "\($0.formatted(.number.precision(.fractionLength(1))))m" } ?? "—m"
-        let windValue = assessment.buoy.windSpeed
+        let windValue = assessment.buoy.waveHeight
             .map { "\($0.formatted(.number.precision(.fractionLength(0))))m/s" } ?? "—m/s"
 
         return HStack(spacing: DS.Spacing.md) {
